@@ -1,0 +1,9 @@
+h1{
+    color: blueviolet;
+    background-color: chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+    border: darkorchid;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
